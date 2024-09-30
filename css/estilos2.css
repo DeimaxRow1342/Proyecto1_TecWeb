@@ -47,13 +47,13 @@ main {
     margin: auto;
 }
 
-.serie {
+/*.serie {
     background: #fff;
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
     padding: 15px;
-}
+}*/
 
 h2 {
     color: #007bff;
@@ -79,22 +79,4 @@ ul {
 
 figure {
     margin: 0;
-}
-
-footer {
-    background-color: #333333;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-    position: relative;
-    bottom: 0;
-    width: 100%;
-}
-
-.contacto {
-    margin: 15px 0;
-}
-
-.contacto address {
-    font-style: normal;
 }
